@@ -5,6 +5,23 @@ body
     font-family: fantasy;
 }
 
+#cabecera
+{
+    background: #3333aa;
+    box-shadow: 4px 7px 15px 0px gray;
+    color: whitesmoke;
+    font-weight: bold;
+    margin: 0;
+    padding: 5 10px;
+}
+
+#cabecera #tagline 
+{
+    padding: 0 0 0 10px;
+    font-weight: normal;
+    font-size: medium;
+}
+
 #container 
 {
     width: 70%;
